@@ -1,4 +1,4 @@
-def sum(a, b):
+def sum_numbers(a, b):
 	return a + b
 	
 def test_sum_numbers():
